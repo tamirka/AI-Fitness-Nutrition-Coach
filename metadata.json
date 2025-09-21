@@ -1,0 +1,5 @@
+{
+  "name": "AI Fitness Plan Generator",
+  "description": "An AI-powered coach that generates personalized 4-week fitness programs and meal plans based on user goals, experience, and dietary needs.",
+  "requestFramePermissions": []
+}
